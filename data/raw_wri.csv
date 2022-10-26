@@ -1,0 +1,111 @@
+﻿base_name,name,capacity_mw,latitude,longitude,fuel,commissioning_year,id,source,url,geo_source
+A Luoi,A Luoi Hydro Power Project,170,16.2839,107.3589,Hydro,2012,CDMDB0008248,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+A Roang,A Roang Hydropower Project,7.2,16.12,107.38,Hydro,,CDMDB0006937,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+A Vuong,A Vuong,210,15.7998,107.6171,Hydro,2008,WRI1030859,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/a-vuong-hydropower,Open Development Vietnam
+Alin B1,Alin B1 Hydropower Project,42,16.4042,107.1914,Hydro,,CDMDB0006334,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Amata,Amata,13,10.9471,106.9,Oil,,WRI1030748,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+An Diem 2,An Diem 2 Hydropower Project,15.6,,,Hydro,,CDMDB0002878,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+An Khanh I,An Khanh I,120,21.5969,105.767,Coal,2015,WRI1030773,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+An Khe - Kanak,An Khe - Kanak,173,14.0148,108.6796,Hydro,2009,WRI1030828,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/an-khe-kanak-hydropower,Open Development Vietnam
+Ayun Ha,Ayun Ha,3,13.5809,108.2592,Hydro,,WRI1030822,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/ayun-ha-hydropower,Open Development Vietnam
+Ayun Pa Sugar-Cane,Ayun Pa sugar-cane,20,,,Biomass,,WRI1030949,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,
+Ayun Thuong 1A,Ayun Thuong 1A Hydropower Project,12,13.9181,108.2333,Hydro,,CDMDB0005376,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Ba Ria,Ba Ria,389,10.4891,107.17,Gas,,WRI1030736,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+Ba Thuoc 1,Ba Thuoc 1 Hydropower Project,60,20.3122,105.1619,Hydro,,CDMDB0007400,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Ba Thuoc 2,Ba Thuoc 2 Hydropower Project,80,20.3222,105.3217,Hydro,2012,CDMDB0004823,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Bac Binh,Bac Binh,33,11.3711,108.33,Hydro,2009,WRI1030752,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/bac-binh-hydropower,Open Development Vietnam
+Bac Lieu,Bac Lieu Province Wind Power Plant,99.2,9.1207,105.4445,Wind,2016,CDMDB0007250,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Bac Me,Bac Me Hydropower Project,45,22.7369,105.3844,Hydro,,CDMDB0009148,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Ban Chat,Ban Chat,220,21.8612,103.8286,Hydro,2013,WRI1030910,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/ban-chat-hydropower,Open Development Vietnam
+Ban Coc,Ban Coc Hydropower Project,18,19.5894,104.8749,Hydro,2009,CDMDB0004236,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Ban Nhung Small,Ban Nhung Small Hydropower Project,11,22.0028,106.5875,Hydro,,CDMDB0008017,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Ban Ra,Ban Ra Hydropower Project,18,22.8439,106.6917,Hydro,2012,CDMDB0007691,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Ban Ve,Ban Ve,320,19.3404,104.4873,Hydro,2010,WRI1030872,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/ban-ve-hydropower,Open Development Vietnam
+Bao Nhai,Bao Nhai Hydropower Project Vietnam,14,22.4435,104.2517,Hydro,,CDMDB0006790,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Bau Can,Bau Can,0.215,,,Hydro,,WRI1030989,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/bau-can-hydropower,
+Bauxit Aluminum Factory,Bauxit aluminum factory,30,,,Oil,,WRI1030953,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,
+Bien Ho,Bien Ho,0.225,,,Hydro,,WRI1030988,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/bien-ho-hydropower,
+Binh Dien,Binh Dien,44,16.3172,107.5028,Hydro,2009,WRI1030866,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/binh-dien-hydropower,Open Development Vietnam
+Binh Thuan,Wind Power Plant No.1 - Binh Thuan 30MW,30,11.12,108.4,Wind,,CDMDB0002228,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Bourbon,Bourbon,24,10.613,106.49,Oil,,WRI1030743,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+Bu Ca Mau,Bu Ca Mau,4,11.8713,106.9768,Hydro,2009,WRI1030792,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/bu-ca-mau-hydropower,Open Development Vietnam
+Buon Kuop,Buon Kuop,280,12.5305,107.9243,Hydro,2011,WRI1030811,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/buon-kuop-hydropower,Open Development Vietnam
+Buon Tua Srah,Buon Tua Srah,86,12.2852,108.0383,Hydro,2009,WRI1030808,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/buon-tua-srah-hydropower,Open Development Vietnam
+Ca Du,Ca Du,2.6,15.2714,108.5186,Hydro,2005,WRI1030946,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/ca-du-hydropower,Open Development Vietnam
+Ca Mau 1,Ca Mau 1,1542,9.242,105.06,Gas,,WRI1030730,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+Cai Lan,Cai Lan,39,20.9861,107.03,Oil,,WRI1030763,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+Cam Pha I,Cam Pha I,600,21.0063,107.36,Coal,,WRI1030764,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+Cam Ranh Baggasse,Cam Ranh baggasse,11,,,Biomass,,WRI1030950,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,
+Cam Son,Cam Son,4.5,21.5438,106.5105,Hydro,1973,WRI1030902,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/cam-son-hydropower,Open Development Vietnam
+Can Don,Can Don,77,11.9689,106.8435,Hydro,2004,WRI1030798,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/can-don-hydropower,Open Development Vietnam
+Can Tho,Can Tho,185,10.1,105.72,Oil,,WRI1030733,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+Cao Ngan,Cao Ngan,115,21.613,105.82,Coal,,WRI1030774,Vietnam Electricity Annual Report,http://www.evn.com.vn/userfile/files/2017/3/AnnualReport2016.pdf,WRI
+Chau Thon,Chau Thon Hydropower Project,18,19.36,104.47,Hydro,,CDMDB0003396,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Chi Khe,Chi Khe Hydropower Project,41,104.8,19.083,Hydro,,CDMDB0004520,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Chiem Hoa,Chiem Hoa Hydropower Project,48,22.2056,105.3294,Hydro,,CDMDB0006118,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Chieng Cong,Chieng Cong Hydropower Project,11.4,,,Hydro,,CDMDB0003457,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Chieng Cong 1,Chieng Cong 1,4,21.4707,104.1852,Hydro,,WRI1030896,Open Development Vietnam,https://vietnam.opendevelopmentmekong.net/dataset/?id=danh-sach-cac-th-y-di-n-t-i-vi-t-nam-tinh-d-n-thang-06-2016&search_query=P3BhZ2U9Mg==,Open Development Vietnam
+Chieng Cong 2,Chieng Cong 2,8,21.4572,104.2104,Hydro,,WRI1030894,Open Development Vietnam,https://vietnam.opendevelopmentmekong.net/dataset/?id=danh-sach-cac-th-y-di-n-t-i-vi-t-nam-tinh-d-n-thang-06-2016&search_query=P3BhZ2U9Mg==,Open Development Vietnam
+Chieng Ngam Thuong,Chieng Ngam Thuong hydro-power,10,21.475,103.7778,Hydro,,CDMDB0008813,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Chu Linh And Coc San,Chu Linh and Coc San Hydropower Project,40.7,22.4119,103.8974,Hydro,,CDMDB0007338,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Coc Dam,Coc Dam Hydropower Project,7.5,22.4431,104.3175,Hydro,,CDMDB0003256,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Coc Ly,Coc Ly,90,22.2985,103.1613,Hydro,2012,WRI1030918,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/coc-ly-hydropower,Open Development Vietnam
+Coc San,Coc San,30,22.4144,103.9066,Hydro,2016,WRI1030923,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/coc-san-hydropower,Open Development Vietnam
+Cua Dat,Cua Dat,97,19.8782,105.2731,Hydro,2010,WRI1030879,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/cua-dat-hydropower,Open Development Vietnam
+Da Dang 2,Da Dang 2 Hydropower Project,34,11.6952,108.2442,Hydro,2010,CDMDB0005600,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Da Dang-Dachomo,Da Dang-Dachomo Hydropower Project,23,,,Hydro,,CDMDB0008803,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Da Den,Da Den Hydropower Project,9,12.9183,109.1453,Hydro,,CDMDB0003980,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Da Kai,Da Kai,6,12.0838,108.5953,Hydro,,WRI1030802,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/da-kai-hydropower,Open Development Vietnam
+Da M'Bri,Da M'Bri Hydropower Project,75,11.5272,107.6467,Hydro,,CDMDB0005870,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Da Nhim,Da Nhim,160,11.8529,108.6058,Hydro,1964,WRI1030790,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/da-nhim-hydropower,Open Development Vietnam
+Da Nhim Thuong 2,Da Nhim Thuong 2,7.5,12.1161,108.5852,Hydro,2010,WRI1030803,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/da-nhim-thuong-hydropower,Open Development Vietnam
+Dac Me,Dac Me,5,12.1333,108.313,Hydro,2011,WRI1030804,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dac-me-hydropower,Open Development Vietnam
+Dai Nga,Dai Nga,10,11.4219,107.8754,Hydro,2015,WRI1030779,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dai-nga-hydropower,Open Development Vietnam
+Dai Ninh,Dai Ninh,300,11.6499,108.3202,Hydro,2008,WRI1030781,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dai-ninh-hydropower,Open Development Vietnam
+Dak Doa,Dak Doa Hydropower Project,14,14.1958,108.105,Hydro,2010,CDMDB0004384,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Glun,Dak Glun Hydro Power Project,18,12.0225,107.1783,Hydro,2011,CDMDB0007554,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Glun 2 And 3,Dak Glun 2 and 3 Hydropower Plants Vietnam,11,12.0925,107.3464,Hydro,,CDMDB0006789,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Gret,Dak Gret,3.6,,,Hydro,2015,WRI1030976,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-gret-hydropower,
+Dak Hnol,Dak Hnol Hydropower Project,2.1,13.9375,108.2139,Hydro,,CDMDB0004392,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Lay,Dak Lay,3.2,14.7979,108.0074,Hydro,2015,WRI1030849,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-lay-hydropower,Open Development Vietnam
+Dak Lo,Dak Lo Hydropower Project,22,14.7306,108.3319,Hydro,2016,CDMDB0006574,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Me 1,Dak Me 1 Hydropower Project in Vietnam,4,12.1375,108.3222,Hydro,,CDMDB0004955,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Mek 3,Dak Mek 3 Hydropower Project,7.5,,,Hydro,,CDMDB0006583,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Mi 1-1A,Dak Mi 1-1A Hydroelectric Power Project,54,15.215,107.8192,Hydro,,CDMDB0007378,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Mi 2,Dak Mi 2 Hydropower Project,98,15.2961,107.8161,Hydro,,CDMDB0006489,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Mi 3,Dak Mi 3 Hydropower Project Vietnam,56,15.3375,107.8326,Hydro,,CDMDB0007395,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Mi 4,Dak Mi 4 Hydropower Project Vietnam,190,15.4575,107.9155,Hydro,2012,CDMDB0004970,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Mi 4C,Dak Mi 4c Hydropower Project Vietnam,18,15.4639,107.9289,Hydro,2012,CDMDB0005056,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak N'Teng,Dak N'Teng Hydropower Project,10,12.2167,107.9792,Hydro,2011,CDMDB0003942,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Ne,Dak Ne Hydropower Project,8.1,14.6164,108.154,Hydro,2010,CDMDB0003484,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Nong 1,Dak Nong 1,1.8,,,Hydro,,WRI1030981,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-nong-1-hydropower,
+Dak Nong 2,Dak Nong 2 Hydropower Project,14.63,11.9433,107.6667,Hydro,2016,CDMDB0003944,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Pi Hao 4,Dak Pi Hao 4,9,,,Hydro,,WRI1030965,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-pi-hao-4-hydropower,
+Dak Pia,Dak Pia,2.2,14.6651,108.1593,Hydro,2012,WRI1030843,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-pia-hydropower,Open Development Vietnam
+Dak Po Ne,Dak Po Ne,15.6,14.5759,108.3049,Hydro,2009,WRI1030841,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-po-ne-hydropower,Open Development Vietnam
+Dak Po Ne 2,Dak Po ne 2,3.6,14.526,108.2992,Hydro,2008,WRI1030839,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-po-ne-2-hydropower,Open Development Vietnam
+Dak Pone,Dak Pone Hydropower Project,15.6,,,Hydro,,CDMDB0004550,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Pring,Dak Pring Hydropower Project,7.5,15.6181,107.5528,Hydro,,CDMDB0010097,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Psi 3,Dak Psi 3,15,14.6613,107.9367,Hydro,2012,WRI1030842,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-psi-3,Open Development Vietnam
+Dak Psi 3 And 4,Dak Psi 3 and 4 Hydropower Project,45,14.775,107.9972,Hydro,,CDMDB0004891,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Psi 4,Dak Psi 4,30,14.7684,108.0027,Hydro,2010,WRI1030848,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-psi-4-hydropower,Open Development Vietnam
+Dak Psi 5,Dak Psi 5 Hydropower Project,10,14.6592,107.9347,Hydro,2014,CDMDB0004656,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Ro Sa,Dak Ro Sa,7.5,14.7473,107.8358,Hydro,2007,WRI1030847,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-ro-sa-hydropower,Open Development Vietnam
+Dak Rong 4,Dak Rong 4 Hydropower Project,21,16.363,106.521,Hydro,,CDMDB0007672,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Ru,Dak Ru,7.5,11.9522,107.4042,Hydro,2008,WRI1030797,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-ru-hydropower,Open Development Vietnam
+Dak Rung,Dak Rung Hydropower Project,8,12.1538,107.6237,Hydro,,CDMDB0003505,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Rung 1,Dak Rung 1 Hydropower Project,5,12.125,107.6333,Hydro,2010,CDMDB0003552,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Sin 1,Dak Sin 1 Hydropower Project,27,11.8186,107.459,Hydro,2015,CDMDB0005533,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Srong,Dak Srong,18,13.7659,108.5236,Hydro,2010,WRI1030943,Open Development Vietnam,https://vietnam.opendevelopmentmekong.net/dataset/?id=danh-sach-cac-th-y-di-n-t-i-vi-t-nam-tinh-d-n-thang-06-2016&search_query=P3BhZ2U9Mg==,Open Development Vietnam
+Dak Srong 2,Dak Srong 2 Hydropower Project,24,13.6958,108.5583,Hydro,2010,CDMDB0003389,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Srong 2A,Dak Srong 2A Hydropower Project,18,13.6944,108.565,Hydro,2011,CDMDB0004210,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Srong 3A,Dak Srong 3A Hydropower Project,10.2,13.3508,108.5306,Hydro,2014,CDMDB0007956,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Srong 3B,Dak Srong 3B Hydropower Project.,19.5,13.3222,108.5167,Hydro,2012,CDMDB0005631,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dak Ter 1,Dak Ter 1,3.6,,,Hydro,2015,WRI1030975,Open Development Vietnam,https://vietnam.opendevelopmentmekong.net/dataset/?id=danh-sach-cac-th-y-di-n-t-i-vi-t-nam-tinh-d-n-thang-06-2016&search_query=P3BhZ2U9Mg==,
+Dak U,Dak U,2.4,,,Hydro,2009,WRI1030977,Open Development Vietnam,https://data.opendevelopmentmekong.net/vi/library_record/dak-u-hydropower,
+Dakdrinh,Dakdrinh Hydropower Project,125,15.0156,108.3953,Hydro,2014,CDMDB0006184,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dakrong 2,DaKrong 2 Hydropower Project,18,,,Hydro,,CDMDB0008054,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dakrong 3,Dakrong 3 Hydropower Project,8,16.5306,106.9611,Hydro,,CDMDB0006050,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dakrosa2,Dakrosa2 Hydropower Project,2.4,14.7178,107.8194,Hydro,,CDMDB0005949,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dakrtih,DakRTih Hydropower Project Vietnam,144,11.9131,107.6717,Hydro,,CDMDB0004537,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
+Dam B'Ri 1,Dam B'ri 1 Hydropower Project,9,11.6083,107.72,Hydro,,CDMDB0006556,Clean Development Mechanism,https://cdm.unfccc.int,Clean Development Mechanism
